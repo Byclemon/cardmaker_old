@@ -64,6 +64,14 @@ CardMaker是一个iOS卡片制作应用,可以制作精美的文字卡片、文�
 - 水印和特效
 - 导出分享
 
+## 演示截图
+
+<div align="center">
+  <img src="Demo/1.png" width="250" alt="基础卡片演示">
+  <img src="Demo/2.png" width="250" alt="文章卡片演示">
+  <img src="Demo/3.png" width="250" alt="电影卡片演示">
+</div>
+
 ## 系统要求
 
 - iOS 17.0+
